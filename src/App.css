@@ -47,7 +47,13 @@ button:hover{
     transform: scale(1.1);
 }
 
+button:active{
+    transform: scale(0.98);
+    background-color: #126b1d;
+} 
+
 output, button{
     margin-left: 1%;
 }
+
 
