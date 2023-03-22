@@ -6,5 +6,5 @@ _
 - клонировать backend из репозитория: [BestHackTraining](https://github.com/Sh1bari/BestHackTraining);
 - запустить front
 - запустить back
-_
+##
 По вопросам обращайтесь в [VK](https://vk.com/amonkarimov02)
